@@ -43,6 +43,3 @@ The code evaluates the Linear Regression model's performance by calculating and 
 
 The script creates a DataFrame (`coof`) to display the coefficients of the Linear Regression model along with their corresponding feature names.
 
-Overall, this code provides a comprehensive analysis of an e-commerce customer dataset, explores feature relationships, builds a Linear Regression model for prediction, and evaluates the model's performance.
-
-
