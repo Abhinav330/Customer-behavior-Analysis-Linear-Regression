@@ -1,3 +1,13 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/32301d7281ec464d8023edf6cedd0add)](https://app.codacy.com/gh/Abhinav330/Customer-behavior-Analysis-Linear-Regression/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Customer-behavior-Analysis-Linear-Regression/matplotlib?color=green)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Customer-behavior-Analysis-Linear-Regression/numpy?color=silver)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Customer-behavior-Analysis-Linear-Regression/pandas?color=red)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Customer-behavior-Analysis-Linear-Regression/scikit-learn?color=red)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Customer-behavior-Analysis-Linear-Regression/scipy?color=yellow)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Customer-behavior-Analysis-Linear-Regression/seaborn?color=beige)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/Customer-behavior-Analysis-Linear-Regression?color=dark%20green)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abhinav330/Customer-behavior-Analysis-Linear-Regression)
+
 # Customer-behavior-Analysis-Linear-Regression
 
 # Code Summary
